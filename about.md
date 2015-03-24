@@ -4,4 +4,4 @@ title: About
 permalink: /about/
 ---
 
-An <span style="color:rgb(20,150,0); font-family:Times; font-size:1.5em;">Open Notebook</span> exploring light and lighting research.
+An <span style="color:rgb(120,50,0); font-family:Cambria; font-size:1em;">Open Notebook</span> exploring light and lighting research.
