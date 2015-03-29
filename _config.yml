@@ -3,9 +3,8 @@ title: KEVIN MANSFIELD Research explorations in lighting
 email: kevin.mansfield@ucl.ac.uk
 description: > # this means to ignore newlines until "baseurl:"
   An Open Notebook exploring light and lighting research.
-baseurl: ""
+baseurl: 
 url: http://kpmansfield.github.io
-avatar: "/images/logo.png"
 twitter_username: mansfieldkp
 github_username:  kpmansfield
 
