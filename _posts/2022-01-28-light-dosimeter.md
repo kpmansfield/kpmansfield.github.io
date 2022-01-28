@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Field utilisation of light dosimeter
+title: Field utilisation of a light dosimeter
 ---
 
 There is intense interest within the lighting community in the wide-ranging biological responses to light together with the view that proper exposure to daylight is vital for our health and well-being. An advanced light dosimeter, developed by Lucerne University of Applied Sciences and Arts (LUASA), has the potential to accurately capture daylight availability experienced by workplace occupants and demonstrate whether contemporary buildings provide light of the appropriate intensity, duration and spectral composition.
