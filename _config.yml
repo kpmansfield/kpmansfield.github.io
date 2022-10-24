@@ -10,5 +10,5 @@ github_username:  kpmansfield
 
 # Build settings
 markdown: kramdown
-theme: Tactile
+theme: minima
     
