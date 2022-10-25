@@ -3,7 +3,7 @@ layout: post
 title: First Impressions of <em>OpenStudio</em>
 ---
 
-<em>OpenStudio</em> advertises itself as collection of software tools to support whole building energy ‘modeling’ (see <http://openstudio.nrel.gov>).
+<em>OpenStudio</em> advertises itself as collection of software tools to support whole building energy ‘modeling’ (see <https://openstudio.net/>).
 
 I like the fact that it is open source and that its plug-in architecture allows the use of <em>EnergyPlus</em> (whole building energy simulation) together with <em>Radiance</em> (claimed to be the gold standard for accurate lighting simulation) – a combination that I have not seen before. I also like the way it sets up a UNIX-style toolchain from weather data to 3D model to zones and systems through to simulation and results. I am intrigued by the possibility of high level access using <em>R</em> (particularly) or perhaps <em>Python</em>, even <em>Ruby</em> (yet another programming language to learn !) or <em>C++</em> and <em>C#</em> (no thanks…).
 
