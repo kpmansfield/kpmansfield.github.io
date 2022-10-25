@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The perplexities of lighting education 2
+title: The perplexities of lighting education
 ---
 
 My thoughts about lighting education recently published as an opinion piece in *Lighting Research and Technology* (Volume 49 No 2).
