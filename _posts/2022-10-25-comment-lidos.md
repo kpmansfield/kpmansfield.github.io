@@ -3,7 +3,7 @@ layout: post
 title: Commenting on <span style="color:purple">LiDOs</span>
 ---
 
-Kit Cuttle's most recent paper[^1] is concerned with extending his *LiDOs* procedure to provide holistic lighting solutions.
+Kit Cuttle's most recent paper[^1] is concerned with extending his <font face="Monaco">LiDOs</font> procedure to provide holistic lighting solutions.
 
 In a comment on the paper, I pointed out that Cuttle's proposal of 'how brightly' or 'how dimly' lit a space appears—its 'ambient illuminance'— is specified in terms of mean room surface exitance (MRSE). I questioned whether MRSE, being an average measure of flux density linked to psychological descriptors, could **fully** characterise our responses to a lit space that could have surfaces of varying reflectance or contain self-luminous elements or views of the sky through fenestration.
 
@@ -13,7 +13,11 @@ Cuttle responded that the "...crucial role of MRSE is that, being the average va
 
 Concerning the targeted effects of light, Cuttle wrote that shading patterns could be specified by vector/scalar ratio and vector direction but that shadow and highlight patterns included " 'sharpness' effects for which the luminous intensity distribution of the surrounding field would need to be defined". He felt that this would add another layer to the output specification which might be too unwieldly for practical application.
 
-The discussion is published at the end of the paper [here](https://doi.org/10.1177/14771535211061044) with interesting contributions from Kevan Shaw and Peter Thorns.
+The discussion is published at the end of the paper [here](https://doi.org/10.1177/14771535211061044) with interesting contributions from:
+<ul>
+<li>Kevan Shaw</li>
+<li>Peter Thorns</li>
+</ul>
 
 ---
 [^1]:Cuttle C. 'Extending the lighting design objectives procedure for holistic lighting solutions'. <em>Lighting Research and Technology</em>, Online, Sep 2, 2022.
