@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Commenting on <span style="color:purple">LiDOs</span> ![bulb](bulb.jpg)
+title: Commenting on <span style="color:purple">LiDOs</span> ![](/images/bulb.jpg)
 ---
 
-Kit Cuttle's most recent paper[^1] is concerned with extending his *LiDOs* procedure to provide holistic lighting solutions. ![bulb](bulb.jpg)
+Kit Cuttle's most recent paper[^1] is concerned with extending his *LiDOs* procedure to provide holistic lighting solutions. ![](/images/bulb.jpg)
 
 In a comment on the paper, I pointed out that Cuttle's proposal of 'how brightly' or 'how dimly' lit a space appears—its 'ambient illuminance'— is specified in terms of mean room surface exitance (MRSE). I questioned whether MRSE, being an average measure of flux density linked to psychological descriptors, could **fully** characterise our responses to a lit space that could have surfaces of varying reflectance or contain self-luminous elements or views of the sky through fenestration.
 
