@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Commenting on <span style="color:purple">LiDOs</span>
+title: Commenting on <span style="color:purple">LiDOs</span> <img src="bulb.jpg" width="100" height="75">
 ---
 
 Kit Cuttle's most recent paper[^1] is concerned with extending his *LiDOs* procedure to provide holistic lighting solutions.
