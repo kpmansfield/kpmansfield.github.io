@@ -1,10 +1,10 @@
 [
   {
-    "objectID": "photography/index.html",
-    "href": "photography/index.html",
-    "title": "Photography",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Kevin Mansfield",
     "section": "",
-    "text": "As a wizard and scholar of Middle-earth, I have been studying the magic of the natural world for centuries. Through my self-portraits, I aim to capture the essence of my own being and reflect on my own journey through time. Each photograph is a reflection of my own experiences and emotions. Through my photography, I hope to offer a glimpse into my life as a scholar and adventurer, and inspire others to reflect on their own journeys through the world.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nView the tutorial for this template (+ download link)"
+    "text": "Dr Kevin Mansfield FSLL\nAssociate Professor, UCL Institute for Environmental Design and Engineering\n\n\n  \n \n \n  \n   \n  \n    \n     Twitter\n  \n  \n    \n     Mastodon\n  \n  \n    \n     Github\n  \n  \n    \n     LinkedIn\n  \n  \n    \n     Email\n  \n\n\n\n\n🚧 Note: This website is currently under (rather slow) construction . . .\nI have spent most of my working life researching and teaching light and lighting in the built environment.\nMy research interests span architectural lighting, the human response to lighting and the impact of lighting at urban, architectural and object scales.\nOn this website, you will find a selection of my published works, including scholarly articles, and news and updates on my current research projects.\nPlease feel free to contact me if you have any questions or would like to discuss potential projects."
   },
   {
     "objectID": "projects/index.html",
@@ -28,10 +28,31 @@
     "text": "The History of the War of the Ring\n\narXiv Preprint | Code\nI am creating a comprehensive and detailed history of the conflict that goes beyond the surface-level events. By gathering information from a variety of sources, including my own memories, written accounts, and oral histories, I hope to shed new light on this important period in Middle-earth’s history and provide valuable insights into the motivations and actions of the various players involved.\n\nView the tutorial for this template (+ download link)"
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Kevin Mansfield",
+    "objectID": "posts/2025-05-27-my-blog-post/index.html",
+    "href": "posts/2025-05-27-my-blog-post/index.html",
+    "title": "Unification in Mathematics",
     "section": "",
-    "text": "Dr Kevin Mansfield FSLL\nAssociate Professor, UCL Institute for Environmental Design and Engineering\n\n\n  \n \n \n  \n   \n  \n    \n     Twitter\n  \n  \n    \n     Mastodon\n  \n  \n    \n     Github\n  \n  \n    \n     LinkedIn\n  \n  \n    \n     Email\n  \n\n\n\n\n🚧 Note: This website is currently under (rather slow) construction . . .\nI have spent most of my working life researching and teaching light and lighting in the built environment.\nMy research interests span architectural lighting, the human response to lighting and the impact of lighting at urban, architectural and object scales.\nOn this website, you will find a selection of my published works, including scholarly articles, and news and updates on my current research projects.\nPlease feel free to contact me if you have any questions or would like to discuss potential projects."
+    "text": "Very struck by a pas­sage in W. W. Sawyer’s Pre­lude to Math­e­mat­ics (dat­ing from 1955) con­cern­ing ‘uni­fi­ca­tion’ in mathematics:\n\n…hun­dreds of papers are writ­ten, each clar­i­fy­ing one facet of the truth; the sub­ject is grow­ing. … It then ceases to be nec­es­sary to read the hun­dreds of sep­a­rate con­tri­bu­tions… The var­ie­gated results are welded together into a sin­gle doc­trine… The new meth­ods hav­ing become com­mon prop­erty, new prob­lems are found which they are insuf­fi­cient to solve…new papers are pub­lished; expan­sion begins again. There always is, there always will be some­thing to learn, some­thing to conquer.\n\n\n\n\nCitationBibTeX citation:@online{mansfield2027,\n  author = {Mansfield, Kevin},\n  title = {Unification in {Mathematics}},\n  date = {2027-03-05},\n  url = {https://kpmansfield.github.io/posts/2025-05-27-my-blog-post/},\n  langid = {en}\n}\nFor attribution, please cite this work as:\nMansfield, Kevin. 2027. “Unification in Mathematics.” March\n5, 2027. https://kpmansfield.github.io/posts/2025-05-27-my-blog-post/."
+  },
+  {
+    "objectID": "posts/2025-05-26-my-blog-post/index.html",
+    "href": "posts/2025-05-26-my-blog-post/index.html",
+    "title": "Lighting Research Questions",
+    "section": "",
+    "text": "In the Sep/Oct issue of the SLL Newsletter, Peter Boyce has suggested\n\nthat the lighting industry should identify its top 10 questions, to be addressed by research within the next decade, and set out a commitment to funding what it takes to get the answers. This could help researchers and educators of lighting to stay focused on the important issues…\n\nThis chimes in very nicely with the famous essay by Richard Hamming—You and Your Research—where he states that great scientists “have something between 10 and 20 important problems for which they are looking for an attack”. The key word here is attack—there needs to be a possible approach, a line of thrust, a push to overcome an important problem. He continues:\n\nIf you do not work on an important problem, it’s unlikely you’ll do important work.\n\nSo what are the important problems in lighting research? And significantly, what is a possible line of attack?\n\n\n\nCitationBibTeX citation:@online{mansfield2027,\n  author = {Mansfield, Kevin},\n  title = {Lighting {Research} {Questions}},\n  date = {2027-02-05},\n  url = {https://kpmansfield.github.io/posts/2025-05-26-my-blog-post/},\n  langid = {en}\n}\nFor attribution, please cite this work as:\nMansfield, Kevin. 2027. “Lighting Research Questions.”\nFebruary 5, 2027. https://kpmansfield.github.io/posts/2025-05-26-my-blog-post/."
+  },
+  {
+    "objectID": "photography/index.html",
+    "href": "photography/index.html",
+    "title": "Photography",
+    "section": "",
+    "text": "As a wizard and scholar of Middle-earth, I have been studying the magic of the natural world for centuries. Through my self-portraits, I aim to capture the essence of my own being and reflect on my own journey through time. Each photograph is a reflection of my own experiences and emotions. Through my photography, I hope to offer a glimpse into my life as a scholar and adventurer, and inspire others to reflect on their own journeys through the world.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nView the tutorial for this template (+ download link)"
+  },
+  {
+    "objectID": "posts.html",
+    "href": "posts.html",
+    "title": "Blog",
+    "section": "",
+    "text": "Unification in Mathematics\n\n\n\nmathematics\n\n\nlighting\n\n\n\nPrelude to Mathematics\n\n\n\nKevin Mansfield\n\n\nMar 5, 2027\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLighting Research Questions\n\n\n\nmathematics\n\n\nlighting\n\n\n\nImportant themes to explore\n\n\n\nKevin Mansfield\n\n\nFeb 5, 2027\n\n\n\n\n\n\n\n\nNo matching items"
   }
 ]
