@@ -4,7 +4,28 @@
     "href": "index.html",
     "title": "Kevin Mansfield",
     "section": "",
-    "text": "Dr Kevin Mansfield FSLL\nAssociate Professor, UCL Institute for Environmental Design and Engineering\n\n\n  \n \n \n  \n   \n  \n    \n     Twitter\n  \n  \n    \n     Mastodon\n  \n  \n    \n     Github\n  \n  \n    \n     LinkedIn\n  \n  \n    \n     Email\n  \n\n\n\n\n🚧 Note: This website is currently under (rather slow) construction . . .\nI have spent most of my working life researching and teaching light and lighting in the built environment.\nMy research interests span architectural lighting, the human response to lighting and the impact of lighting at urban, architectural and object scales.\nOn this website, you will find a selection of my published works, including scholarly articles, and news and updates on my current research projects.\nPlease feel free to contact me if you have any questions or would like to discuss potential projects."
+    "text": "Dr Kevin Mansfield FSLL\n\n  \n \n \n  \n   \n  \n    \n     Twitter\n  \n  \n    \n     Mastodon\n  \n  \n    \n     Github\n  \n  \n    \n     LinkedIn\n  \n  \n    \n     Email\n  \n\n\n\n\n🚧 Note: This website is currently under (rather slow) construction . . ."
+  },
+  {
+    "objectID": "photography/index.html",
+    "href": "photography/index.html",
+    "title": "Photography",
+    "section": "",
+    "text": "As a wizard and scholar of Middle-earth, I have been studying the magic of the natural world for centuries. Through my self-portraits, I aim to capture the essence of my own being and reflect on my own journey through time. Each photograph is a reflection of my own experiences and emotions. Through my photography, I hope to offer a glimpse into my life as a scholar and adventurer, and inspire others to reflect on their own journeys through the world.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nView the tutorial for this template (+ download link)"
+  },
+  {
+    "objectID": "posts/2024-01-17/index.html",
+    "href": "posts/2024-01-17/index.html",
+    "title": "Encyclopedia of Color Science and Technology",
+    "section": "",
+    "text": "A new edition of the Encyclopedia of Color Science and Technology has been published and I have contributed a Chapter (together with Professor Peter Raynham) on Architectural Lighting.\nThe Encyclopedia can be accessed at https://doi.org/10.1007/978-3-030-89862-5\n\n\n\nCitationBibTeX citation:@online{mansfield2024,\n  author = {Mansfield, Kevin},\n  title = {Encyclopedia of {Color} {Science} and {Technology}},\n  date = {2024-01-17},\n  url = {https://kpmansfield.github.io/posts/2024-01-17/},\n  langid = {en}\n}\nFor attribution, please cite this work as:\nMansfield, Kevin. 2024. “Encyclopedia of Color Science and\nTechnology.” January 17, 2024. https://kpmansfield.github.io/posts/2024-01-17/."
+  },
+  {
+    "objectID": "posts/2012-03-07/index.html",
+    "href": "posts/2012-03-07/index.html",
+    "title": "Unification in Mathematics",
+    "section": "",
+    "text": "Very struck by a passage in W. W. Sawyer’s Prelude to Mathematics (dating from 1955) concerning ‘unification’ in mathematics:\n\n…hundreds of papers are written, each clarifying one facet of the truth; the subject is growing. … It then ceases to be necessary to read the hundreds of separate contributions… The variegated results are welded together into a single doctrine… The new methods having become common property, new problems are found which they are insufficient to solve…new papers are published; expansion begins again. There always is, there always will be something to learn, something to conquer.\n\n\n\n\nCitationBibTeX citation:@online{mansfield2012,\n  author = {Mansfield, Kevin},\n  title = {Unification in {Mathematics}},\n  date = {2012-03-07},\n  url = {https://kpmansfield.github.io/posts/2025-05-26/},\n  langid = {en}\n}\nFor attribution, please cite this work as:\nMansfield, Kevin. 2012. “Unification in Mathematics.” March\n7, 2012. https://kpmansfield.github.io/posts/2025-05-26/."
   },
   {
     "objectID": "projects/index.html",
@@ -28,25 +49,11 @@
     "text": "The History of the War of the Ring\n\narXiv Preprint | Code\nI am creating a comprehensive and detailed history of the conflict that goes beyond the surface-level events. By gathering information from a variety of sources, including my own memories, written accounts, and oral histories, I hope to shed new light on this important period in Middle-earth’s history and provide valuable insights into the motivations and actions of the various players involved.\n\nView the tutorial for this template (+ download link)"
   },
   {
-    "objectID": "posts/2012-03-07/index.html",
-    "href": "posts/2012-03-07/index.html",
-    "title": "Unification in Mathematics",
+    "objectID": "about/index.html",
+    "href": "about/index.html",
+    "title": "Dr Kevin Mansfield FSLL",
     "section": "",
-    "text": "Very struck by a passage in W. W. Sawyer’s Prelude to Mathematics (dating from 1955) concerning ‘unification’ in mathematics:\n\n…hundreds of papers are written, each clarifying one facet of the truth; the subject is growing. … It then ceases to be necessary to read the hundreds of separate contributions… The variegated results are welded together into a single doctrine… The new methods having become common property, new problems are found which they are insufficient to solve…new papers are published; expansion begins again. There always is, there always will be something to learn, something to conquer.\n\n\n\n\nCitationBibTeX citation:@online{mansfield2012,\n  author = {Mansfield, Kevin},\n  title = {Unification in {Mathematics}},\n  date = {2012-03-07},\n  url = {https://kpmansfield.github.io/posts/2025-05-26/},\n  langid = {en}\n}\nFor attribution, please cite this work as:\nMansfield, Kevin. 2012. “Unification in Mathematics.” March\n7, 2012. https://kpmansfield.github.io/posts/2025-05-26/."
-  },
-  {
-    "objectID": "posts/2024-01-17/index.html",
-    "href": "posts/2024-01-17/index.html",
-    "title": "Encyclopedia of Color Science and Technology",
-    "section": "",
-    "text": "A new edition of the Encyclopedia of Color Science and Technology has been published and I have contributed a Chapter (together with Professor Peter Raynham) on Architectural Lighting.\nThe Encyclopedia can be accessed at https://doi.org/10.1007/978-3-030-89862-5\n\n\n\nCitationBibTeX citation:@online{mansfield2024,\n  author = {Mansfield, Kevin},\n  title = {Encyclopedia of {Color} {Science} and {Technology}},\n  date = {2024-01-17},\n  url = {https://kpmansfield.github.io/posts/2024-01-17/},\n  langid = {en}\n}\nFor attribution, please cite this work as:\nMansfield, Kevin. 2024. “Encyclopedia of Color Science and\nTechnology.” January 17, 2024. https://kpmansfield.github.io/posts/2024-01-17/."
-  },
-  {
-    "objectID": "photography/index.html",
-    "href": "photography/index.html",
-    "title": "Photography",
-    "section": "",
-    "text": "As a wizard and scholar of Middle-earth, I have been studying the magic of the natural world for centuries. Through my self-portraits, I aim to capture the essence of my own being and reflect on my own journey through time. Each photograph is a reflection of my own experiences and emotions. Through my photography, I hope to offer a glimpse into my life as a scholar and adventurer, and inspire others to reflect on their own journeys through the world.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nView the tutorial for this template (+ download link)"
+    "text": "I have spent most of my working life researching and teaching light and lighting in the built environment.\nMy research interests span architectural lighting, the human response to lighting and the impact of lighting at urban, architectural and object scales.\nOn this website, you will find a selection of my published works, including scholarly articles, and news and updates on my current research projects.\nPlease feel free to contact me if you have any questions or would like to discuss potential projects."
   },
   {
     "objectID": "posts.html",
