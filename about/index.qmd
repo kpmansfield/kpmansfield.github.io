@@ -1,0 +1,31 @@
+---
+title: "Dr Kevin Mansfield FSLL"
+subtitle: Associate Professor, UCL Institute for Environmental Design and Engineering
+image: sidebar/my_image.jpg
+about:
+  template: trestles
+  image-width: 14em
+  image-shape: rounded
+  id: hero-heading
+  
+header-includes: >
+  <link rel="stylesheet" href="../assets/about.css">
+resources: 
+  - ../assets/about.css
+---
+
+::: {#hero-heading}
+
+<div class="h2">Welcome</div>
+
+I have spent most of my working life researching and teaching light and lighting in the built environment.
+
+My research interests span architectural lighting, the human response to lighting and the impact of lighting at urban, architectural and object scales.
+
+On this **website**, you will find a selection of my published works, including scholarly articles, and news and updates on my current research projects.
+
+:::
+
+### Contact
+
+Please feel free to [contact me](mailto:kevin.mansfield@ucl.ac.uk) if you have any questions or would like to discuss potential projects.
