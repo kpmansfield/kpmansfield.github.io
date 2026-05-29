@@ -1,0 +1,20 @@
+---
+title: "Unification in Mathematics"
+description: "*...variegated results are welded together into a single doctrine...*"
+author:
+  - name: Kevin Mansfield
+    url: https://kpmansfield.github.io/
+    orcid: 0000-0003-0966-7883
+    affiliation: UCL IEDE
+    affiliation-url: https://www.ucl.ac.uk/ 
+date: 2012-03-07
+categories: [mathematics] # self-defined categories
+citation: 
+  url: https://kpmansfield.github.io/posts/2025-05-26/ 
+image: rcoding3.jpg
+draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
+---
+
+Very struck by a passage in W. W. Sawyer’s *Prelude to Mathematics* (dating from 1955) concerning ‘unification’ in mathematics:
+
+> …hundreds of papers are written, each clarifying one facet of the truth; the subject is growing. … It then ceases to be necessary to read the hundreds of separate contributions… The variegated results are welded together into a single doctrine… The new methods having become common property, new problems are found which they are insufficient to solve…new papers are published; expansion begins again. There always is, there always will be something to learn, something to conquer.

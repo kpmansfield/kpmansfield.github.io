@@ -1,0 +1,44 @@
+---
+title: "Encyclopedia of Color Science and Technology"
+description: "*The second edition of this extensive textbook has been published.*"
+author:
+  - name: Kevin Mansfield
+    url: https://kpmansfield.github.io/
+    orcid: 0000-0003-0966-7883
+    affiliation: UCL IEDE
+    affiliation-url: https://www.ucl.ac.uk/ 
+date: 2024-01-17
+categories: [lighting] # self-defined categories
+format:
+  html:
+    code-fold: show
+    code-summary: "R code"
+    toc: TRUE
+    toc_float: TRUE
+citation: 
+  url: https://kpmansfield.github.io/posts/2024-01-17/ 
+image: pantheon.jpg
+draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
+---
+
+![The Pantheon](pantheon.jpg){fig-align="center" width="6in"}
+
+A new edition of the *Encyclopedia of Color Science and Technology* has been published and I have contributed a Chapter (together with Professor Peter Raynham) on *Architectural Lighting*.
+
+##### <span style="color:purple">Access</span>
+
+The Encyclopedia can be accessed at [https://doi.org/10.1007/978-3-030-89862-5](https://doi.org/10.1007/978-3-030-89862-5)
+
+##### <span style="color:purple">Code demonstration</span>
+
+This is off-topic but is it possible to show *R* code within a blog post?
+
+```{r}
+library(tidyplots)
+p <- study |> tidyplot(x=treatment,y=score,color=treatment) |> add_data_points_beeswarm(shape=2) |> add_mean_bar(alpha=0.4) |> add_sem_errorbar() |> adjust_size(width=8,height=6,unit="cm")
+p
+```
+
+Note equations:
+
+$$e = mc^2$$
