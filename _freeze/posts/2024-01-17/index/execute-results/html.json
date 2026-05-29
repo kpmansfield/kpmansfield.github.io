@@ -1,0 +1,17 @@
+{
+  "hash": "692f6a3910a56fa8a905d0920699cd89",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: \"Encyclopedia of Color Science and Technology\"\ndescription: \"*The second edition of this extensive textbook has been published.*\"\nauthor:\n  - name: Kevin Mansfield\n    url: https://kpmansfield.github.io/\n    orcid: 0000-0003-0966-7883\n    affiliation: UCL IEDE\n    affiliation-url: https://www.ucl.ac.uk/ \ndate: 2024-01-17\ncategories: [lighting] # self-defined categories\nformat:\n  html:\n    code-fold: show\n    code-summary: \"R code\"\n    toc: TRUE\n    toc_float: TRUE\ncitation: \n  url: https://kpmansfield.github.io/posts/2024-01-17/ \nimage: pantheon.jpg\ndraft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!\n---\n\n\n![The Pantheon](pantheon.jpg){fig-align=\"center\" width=\"6in\"}\n\nA new edition of the *Encyclopedia of Color Science and Technology* has been published and I have contributed a Chapter (together with Professor Peter Raynham) on *Architectural Lighting*.\n\n##### <span style=\"color:purple\">Access</span>\n\nThe Encyclopedia can be accessed at [https://doi.org/10.1007/978-3-030-89862-5](https://doi.org/10.1007/978-3-030-89862-5)\n\n##### <span style=\"color:purple\">Code demonstration</span>\n\nThis is off-topic but is it possible to show *R* code within a blog post?\n\n\n::: {.cell}\n\n```{.r .cell-code}\nlibrary(tidyplots)\np <- study |> tidyplot(x=treatment,y=score,color=treatment) |> add_data_points_beeswarm(shape=2) |> add_mean_bar(alpha=0.4) |> add_sem_errorbar() |> adjust_size(width=8,height=6,unit=\"cm\")\np\n```\n\n::: {.cell-output-display}\n![](index_files/figure-html/unnamed-chunk-1-1.png){width=672}\n:::\n:::\n\n\nNote equations:\n\n$$e = mc^2$$",
+    "supporting": [
+      "index_files"
+    ],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}
