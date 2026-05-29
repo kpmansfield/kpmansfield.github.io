@@ -1,0 +1,39 @@
+---
+title: "Kevin Mansfield PhD FSLL"
+pagetitle: "Kevin Mansfield PhD FSLL"
+subtitle: "Associate Professor, UCL Institute of Environmental Design and Engineering"
+image: img/church.png
+
+about:
+  template: solana
+  id: about-block
+  image-width: 20em
+  links:
+    - icon: twitter-x
+      text: Twitter
+      href: https://twitter.com/mansfieldkp
+    - icon: mastodon
+      text: Mastodon
+      href: https://masto.ai/@kpmansfield/ 
+    - icon: github
+      text: Github
+      href: https://github.com/kpmansfield
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/kevin-mansfield-5b4693a3/
+    - icon: envelope
+      text: Email
+      href: "mailto:kevin.mansfield@ucl.ac.uk"  
+Page-layout: full
+---
+
+<span>&emsp;</span>
+
+
+
+##### <span style="color:red">&#x1F6A7; Note: This website is currently under (rather <em>slow</em>) construction [26th May 2026] . . .</span>
+
+
+
+
+
