@@ -14,6 +14,13 @@
     "text": "As a wizard and scholar of Middle-earth, I have been studying the magic of the natural world for centuries. Through my self-portraits, I aim to capture the essence of my own being and reflect on my own journey through time. Each photograph is a reflection of my own experiences and emotions. Through my photography, I hope to offer a glimpse into my life as a scholar and adventurer, and inspire others to reflect on their own journeys through the world.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nView the tutorial for this template (+ download link)"
   },
   {
+    "objectID": "posts/2022-01-28/index.html",
+    "href": "posts/2022-01-28/index.html",
+    "title": "Field utilisation of a light dosimeter",
+    "section": "",
+    "text": "There is intense interest within the lighting community in the wide-ranging biological responses to light together with the view that proper exposure to daylight is vital for our health and well-being. An advanced light dosimeter, developed by Lucerne University of Applied Sciences and Arts (LUASA), has the potential to accurately capture daylight availability experienced by workplace occupants and demonstrate whether contemporary buildings provide light of the appropriate intensity, duration and spectral composition.\n\n\n\nLight Dosimeter\n\n\nThe light dosimeter developed by LUASA\nCould the novel light dosimeter be deployed in the field in the UK? Participants in architecturally distinct workplace environments could monitor their ‘light dose’ for a week. Depending on the workplace context being different during this pandemic, it may be better to opt for ‘hybrid’ workplaces combining both traditional office and home working. Once the data is collected, a lighting metric (𝜶-opic daylight equivalent illuminance), recommended by the Commission Internationale de l’Eclairage (CIE) for good quality lighting, could be computed.\nThe immediate outcome of this type of project would be unique evidence-based data to describe the ‘light dose’ experienced in a variety of distinct workplace architectural environments. We could use these data to confirm proposed metrics in lighting quality and/or propose new ones and we could use these findings to contribute to the WELL building standard (International WELL Building Institute) and the Society of Light and Lighting’s (SLL) Codes and Guidance documents. Such a novel and wearable sensor for conducting real world research could inform the design of healthy buildings in the longer term.\nDetails of the light dosimeter can be found at be found https://light-dosimeter.ch/\n\n\n\nCitationBibTeX citation:@online{mansfield2022,\n  author = {Mansfield, Kevin},\n  title = {Field Utilisation of a Light Dosimeter},\n  date = {2022-01-28},\n  url = {https://kpmansfield.github.io/posts/2022-01-28/},\n  langid = {en}\n}\nFor attribution, please cite this work as:\nMansfield, Kevin. 2022. “Field Utilisation of a Light\nDosimeter.” January 28, 2022. https://kpmansfield.github.io/posts/2022-01-28/."
+  },
+  {
     "objectID": "posts/2024-01-17/index.html",
     "href": "posts/2024-01-17/index.html",
     "title": "Encyclopedia of Color Science and Technology",
@@ -30,13 +37,6 @@
   {
     "objectID": "projects/index.html",
     "href": "projects/index.html",
-    "title": "Projects",
-    "section": "",
-    "text": "I have always been intrigued by descriptions in the art history literature of the atmospheric effects of daylighting in sacred buildings. For example, Norberg-Schulz in his book Nightlands: Nordic Building describes the interior of a stave church thus\n\nthe weak light is split by roof work and sinks like a dim atmosphere into the room.\n\n\narXiv Preprint | Code\nThe stave church of Borgund, Norway.\n(www.wondermondo.com/Norway.htm [CC BY-SA 2.0])\nIn a study of the daylighting of the stave church of Borgund in Norway, I claim that the true spirit of Nordic lighting is to be found in the original medieval church and attempt to characterise the quality of daylighting that was achieved. The work was presented at the Nordic Lighting Conference 2012 and can be found here.\nTowards the end of the paper I consider how modes of appearance concepts may assist interpretation of the field of view—concepts which I consider undervalued in assessment of daylighting quality in interiors."
-  },
-  {
-    "objectID": "projects/index.html#the-daylighting-of-the-stave-church-of-borgund-norway",
-    "href": "projects/index.html#the-daylighting-of-the-stave-church-of-borgund-norway",
     "title": "Projects",
     "section": "",
     "text": "I have always been intrigued by descriptions in the art history literature of the atmospheric effects of daylighting in sacred buildings. For example, Norberg-Schulz in his book Nightlands: Nordic Building describes the interior of a stave church thus\n\nthe weak light is split by roof work and sinks like a dim atmosphere into the room.\n\n\narXiv Preprint | Code\nThe stave church of Borgund, Norway.\n(www.wondermondo.com/Norway.htm [CC BY-SA 2.0])\nIn a study of the daylighting of the stave church of Borgund in Norway, I claim that the true spirit of Nordic lighting is to be found in the original medieval church and attempt to characterise the quality of daylighting that was achieved. The work was presented at the Nordic Lighting Conference 2012 and can be found here.\nTowards the end of the paper I consider how modes of appearance concepts may assist interpretation of the field of view—concepts which I consider undervalued in assessment of daylighting quality in interiors."
@@ -67,6 +67,6 @@
     "href": "posts.html",
     "title": "Blog",
     "section": "",
-    "text": "Encyclopedia of Color Science and Technology\n\n\n\nlighting\n\n\n\nThe second edition of this extensive textbook has been published.\n\n\n\nKevin Mansfield\n\n\nJan 17, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nUnification in Mathematics\n\n\n\nmathematics\n\n\n\n…variegated results are welded together into a single doctrine…\n\n\n\nKevin Mansfield\n\n\nMar 7, 2012\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Encyclopedia of Color Science and Technology\n\n\n\nlighting\n\n\n\nThe second edition of this extensive textbook has been published.\n\n\n\nKevin Mansfield\n\n\nJan 17, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nField utilisation of a light dosimeter\n\n\n\nlight dosimeter\n\n\n\nCan a novel light dosimeter be deployed in the field in the UK?\n\n\n\nKevin Mansfield\n\n\nJan 28, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nUnification in Mathematics\n\n\n\nmathematics\n\n\n\n…variegated results are welded together into a single doctrine…\n\n\n\nKevin Mansfield\n\n\nMar 7, 2012\n\n\n\n\n\n\n\n\nNo matching items"
   }
 ]
